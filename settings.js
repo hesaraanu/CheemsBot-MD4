@@ -30,7 +30,7 @@ global.APIs = {
 }
 
 //Api Key\\
-global.APIKeys = {
+global.APIKeys = {125bd983-e8c8-4607-9683-c7b9d035b7c2 }
 	'https://zenzapis.xyz': 'your key',
 }
 
@@ -61,16 +61,16 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.owner = ['94724354419']
+global.ownertag = '94724354419' //ur tag number
+global.botname = 'Anuhas bot' //ur bot name
+global.linkz = "https://tiktok.com/@sa___creations" //your theme url which will be displayed on whatsapp
+global.websitex = "https://tiktok.com/@sa___creations" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.themeemoji = "♥️" //ur theme emoji
+global.packname = "Anuhas bot sticker\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "Anuhas bot" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
